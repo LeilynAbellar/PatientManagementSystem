@@ -1,4 +1,4 @@
-# Patient Management System (VB.NET & MySQL)
+# Simple CRUD Patient Management System (VB.NET & MySQL)
 This repository contains the assets and codes for creating a Visual Basic Application connected to a MySQL Database - a key component for the	IT Infrastructure and Network Technologies course.
 
 This project implements a patient management system using a combination of technologies:
